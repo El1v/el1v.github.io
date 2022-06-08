@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+
+body {
+    background-color: #EAF2EF;
+    font-family: 'Joan', serif;
+    color: #3B2C35;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+strong {
+     color: #2F232A;
+}
+
+li {
+    font-size: 17px;    
+}
+
+.skills {
+    font-size: 20px;
+    color: #2F232A;
+}
+
+.button{
+    background-color: #808080;
+    color: #2F232A;
+    padding: 5px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    
+}
+
+.image {
+    border-radius: 100px;
+}
+
