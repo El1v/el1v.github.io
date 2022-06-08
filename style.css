@@ -37,6 +37,15 @@ li {
     
 }
 
+.buttonDirecionar{
+    background-color: #808080;
+    color: #2F232A;
+    padding: 5px 20px;
+    border-radius: 5px 15px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
 .image {
     border-radius: 100px;
 }
