@@ -6,9 +6,12 @@ body {
     color: #3B2C35;
 }
 
-h2{
-    font-size: 30px;
+.meu-nome { 
+    font-size: 40px;
+    text-align: center;
 }
+    
+
 
 p {
     font-size: 20px;
@@ -50,3 +53,34 @@ li {
     border-radius: 100px;
 }
 
+
+
+#minha-foto {
+    float: left;
+    height: 200px;
+    padding: 10px;
+    background-color: #3B2C35;
+}
+
+.image-container {
+    height: 220px;
+}
+
+.descricao {
+    position: relative;
+    right: -3%;
+    top: 30%;
+}
+
+#social-media { 
+    padding: 20px;
+
+}
+
+ul li:nth-child(odd) { 
+    background-color: #808080;
+}
+
+ul li:hover {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
